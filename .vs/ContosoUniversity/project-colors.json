@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "36a0c785-3f69-4013-8b63-2d6930aa0cc8": {
+      "ProjectGuid": "36a0c785-3f69-4013-8b63-2d6930aa0cc8",
+      "DisplayName": "ContosoUniversity",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "ff1f462e-9478-4ea8-9029-9d4ac8bf74d2": {
+      "ProjectGuid": "ff1f462e-9478-4ea8-9029-9d4ac8bf74d2",
+      "DisplayName": "Controller-View",
+      "ColorIndex": 1
+    },
+    "8b39e7d4-7aed-4011-ba25-ba6b5a88ea09": {
+      "ProjectGuid": "8b39e7d4-7aed-4011-ba25-ba6b5a88ea09",
+      "DisplayName": "TestJWT",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
